@@ -1,0 +1,44 @@
+body{
+    background-color: #ca6868;
+}
+header{
+    border: 2px solid transparent;
+    height: 40px;border: 2px solid transparent;
+    color: white;
+    font-size: xx-large;
+    padding: 15px;
+    
+}
+.box{
+    /* display: flex; */
+    /*  */
+    background:linear-gradient(to right, #8a2387, #e94057, #f27121);
+    height: 80%;
+    width: 80%;
+    margin: 10%; 
+    
+    
+}
+.para{
+    border: 2px solid transparent;
+    height: auto;
+    width: 25vw;
+    padding: 15px;
+    /* margin-top: 5px; */
+    font-size: large;
+    color: white;
+
+}
+.img{
+    position: absolute; 
+    margin-left: 20vw;
+    top: 30%;
+    width: 60vw;
+    height: 30vw;
+}
+.img:hover{
+       right: 0px;
+        top: 25px;
+        width: 90vw;
+        height: 60vw;
+      }
